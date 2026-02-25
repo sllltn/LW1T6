@@ -12,6 +12,7 @@ bool eto_troichnoe(string s) {
     return true;
 }
 
+
 // Проверка: только цифры для десятичного числа
 bool eto_desyatichnoe(string s) {
     for (int i = 0; i < s.length(); i++) {
