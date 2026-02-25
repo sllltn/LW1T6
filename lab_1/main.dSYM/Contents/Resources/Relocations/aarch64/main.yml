@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/sultanabduramanov/Development/avs/lab_1/main'
+relocations:     []
+...
